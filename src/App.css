@@ -1,0 +1,20 @@
+:root {
+  --primary-color: #f1f1f1;
+  --tertiary-color: rgb(73, 170, 54);
+  --tertiary-color: rgb(226, 52, 52);
+  --text-color: #1a1a1a;
+  --title-color: rgb(56, 109, 153);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--primary-color);
+  color: var(--text-color);
+}
+.title {
+  color: var(--title-color);
+}
