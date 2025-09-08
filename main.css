@@ -1,0 +1,13 @@
+.header-bg {
+    background-color: #1b99dd;
+    color: white;
+}
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+}
+.card {
+    border-radius: 10px;
+    overflow: hidden;
+}   
